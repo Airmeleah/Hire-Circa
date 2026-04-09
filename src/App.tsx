@@ -3,7 +3,6 @@ import { Hero } from "@/src/components/Hero";
 import { EmotionalSection } from "@/src/components/EmotionalSection";
 import { TransitionSection, FeaturesGrid } from "@/src/components/Features";
 import { PositioningSection } from "@/src/components/Positioning";
-import { DocumentConsultation } from "@/src/components/DocumentConsultation";
 import { TransformationSection } from "@/src/components/Transformation";
 import { ProofSection } from "@/src/components/Proof";
 import { PricingSection } from "@/src/components/Pricing";
@@ -19,7 +18,6 @@ export default function App() {
         <EmotionalSection />
         <TransitionSection />
         <FeaturesGrid />
-        <DocumentConsultation />
         <PositioningSection />
         <TransformationSection />
         <ProofSection />
